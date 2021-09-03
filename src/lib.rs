@@ -1,3 +1,5 @@
+mod templates;
+
 #[cfg(test)]
 mod tests {
     #[test]
